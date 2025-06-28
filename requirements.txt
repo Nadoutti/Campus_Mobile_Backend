@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic_settings 
+python-multipart
+core-main-app
+python-jose[cryptography]
+passlib[bcrypt]
+aiosmtplib
+pandas
+supabase
